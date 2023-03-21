@@ -1,2 +1,1 @@
-# tas-makas-oyunu
-Python Taş makas oyunu
+# Stone-Scissors-game-with-Python-----Python-ile-Tas-Makas-oyunu
